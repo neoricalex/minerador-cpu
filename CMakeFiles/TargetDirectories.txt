@@ -1,0 +1,6 @@
+/home/neo/Documentos/xmrig/build/CMakeFiles/edit_cache.dir
+/home/neo/Documentos/xmrig/build/CMakeFiles/xmrig.dir
+/home/neo/Documentos/xmrig/build/CMakeFiles/rebuild_cache.dir
+/home/neo/Documentos/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/edit_cache.dir
+/home/neo/Documentos/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/cpuid.dir
+/home/neo/Documentos/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/rebuild_cache.dir

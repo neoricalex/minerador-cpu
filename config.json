@@ -1,0 +1,30 @@
+{
+    "algo": "cryptonight",
+    "background": false,
+    "colors": true,
+    "retries": 5,
+    "retry-pause": 5,
+    "donate-level": 1,
+    "syslog": false,
+    "log-file": null,
+    "print-time": 60,
+    "av": 0,
+    "safe": false,
+    "max-cpu-usage": 99,
+    "cpu-priority": null,
+    "threads": null,
+    "pools": [
+        {
+            "url": "pool.neoricalex.com:3333",
+            "user": "42x1436t87PDLedjt6opqkUM2gXxBP9zKHi3513ty4kcHFmveeG2GXFXDNG7hZyFfvMXwDXyqrXbrJ8YzLvXdDzG3ZyN7AC",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}
